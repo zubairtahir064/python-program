@@ -8,14 +8,13 @@ subjects = [
     "A group of dog",
     "Prime Minister Imran Khan",
     "Auto Rickshaw Driver from Faisalabad",
-    "Mia khalifa"
 ]
 actions = [
     "play football",
-    "Sex with",
+    "play with",
     "dance with",
     "eats",
-    "fuck",
+    "fun",
     "celebrates",
 ]
 places_or_things = [
@@ -23,9 +22,8 @@ places_or_things = [
     "Train of Multan",
     "toy of rubber",
     "inside the school",
-    "during sex",
+    "during walk",
     "with dog",
-    "Jhony sins"
 ]
 while True:
     subject = random.choice(subjects)
