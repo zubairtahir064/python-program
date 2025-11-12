@@ -2,8 +2,8 @@ from twilio.rest import Client
 from datetime import datetime,timedelta
 import time
 
-account_sid = 'ACa1a8d99f305dc8483ff3cde993e029a3'
-auth_token = 'b9421e9809960076a29da21742f30eb0'
+account_sid = 'f3'
+auth_token = 'f'
 client = Client(account_sid,auth_token)
 
 def send_whatsapp_msg(recipent_number,message_body):
